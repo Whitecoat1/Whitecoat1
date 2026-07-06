@@ -30,3 +30,6 @@ I use this becuase it's a powerhouse for VM's, hash-cracking, brute-force and lo
 ### Burner: Lenovo Thinkpad x201 (repaired) / Apple Macbook Air 2020 (Intel) 
 The Thinkpad is a really fun computer to use on the go, I personally run Mint cinnamon on it and it is super great for conferances. 
 The Mac is great for not being noticed, I use it alot in coffee shops and things of that nature.
+
+## Notes: 
+I might post some later but as it stands (7/6/2026) I have around 68 pages of google docs that are discombobulated to say the least, a whole bunch of random flashcards, and a tiny notebook that is a super summerized version of the docs (give or take 40 pages). 
