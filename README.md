@@ -1,16 +1,15 @@
-## Hi there 👋
+# Whitecoat1
 
-<!--
-**Whitecoat1/Whitecoat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Aspiring Purple Teamer | 
 
-Here are some ideas to get you started:
+## Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-PNPT (In Progress)
+-OSCP (PLanned)
+-GCFE (Planned)
+-PT1 (Potentially Planned)
+
+## Writeups
+Lists of completed writeups.
+### [TryHackMe](https://github.com/Whitecoat1/THM-writeups)
+### [Hack The Box](https://github.com/Whitecoat1/HTB-writeups)
