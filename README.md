@@ -1,6 +1,6 @@
 # Whitecoat1
 
-| Aspiring Purple Teamer | 
+| Aspiring Purple Teamer |
 
 ## Certifications
 
